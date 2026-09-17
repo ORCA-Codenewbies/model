@@ -1,0 +1,3 @@
+dataset,source_file,processed_file,rows,measure_column,measure_min,measure_max,units_preserved,unit_conversion,missing_cells,negative_measure_count,chunk_size
+IOTC catch,/tmp/iotc_extract/IOTC-DATASETS-2026-08-13-CE-1952-2025/IOTC-DATASETS-2026-08-13-CA-1952-2025.csv,Datasets/processed/IOTC/iotc_catch_clean.parquet,2075705,CATCH,5.27956560641068e-06,370125.0,True,False,0,0,100000
+IOTC effort,/tmp/iotc_extract/IOTC-DATASETS-2026-08-13-CE-1952-2025/IOTC-DATASETS-2026-08-13-EF-1952-2025.csv,Datasets/processed/IOTC/iotc_effort_clean.parquet,693066,EFFORT,0.0,168990899.0,True,False,0,0,100000

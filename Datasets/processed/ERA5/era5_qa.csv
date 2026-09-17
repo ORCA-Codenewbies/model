@@ -1,0 +1,9 @@
+dataset,variable,dimensions,units,time_count,time_min,time_max,latitude_min,latitude_max,longitude_min,longitude_max,missing_percent
+accum,tp,"time,latitude,longitude",m,20,2025-08-01T00:00:00.000000000,2025-08-05T18:00:00.000000000,5.0,25.0,65.0,95.0,0.0
+instant,u10,"time,latitude,longitude",m s**-1,20,2025-08-01T00:00:00.000000000,2025-08-05T18:00:00.000000000,5.0,25.0,65.0,95.0,0.0
+instant,v10,"time,latitude,longitude",m s**-1,20,2025-08-01T00:00:00.000000000,2025-08-05T18:00:00.000000000,5.0,25.0,65.0,95.0,0.0
+instant,t2m,"time,latitude,longitude",K,20,2025-08-01T00:00:00.000000000,2025-08-05T18:00:00.000000000,5.0,25.0,65.0,95.0,0.0
+instant,msl,"time,latitude,longitude",Pa,20,2025-08-01T00:00:00.000000000,2025-08-05T18:00:00.000000000,5.0,25.0,65.0,95.0,0.0
+instant,sst,"time,latitude,longitude",K,20,2025-08-01T00:00:00.000000000,2025-08-05T18:00:00.000000000,5.0,25.0,65.0,95.0,33.81287623711866
+wave,swh,"time,latitude,longitude",m,20,2025-08-01T00:00:00.000000000,2025-08-05T18:00:00.000000000,5.0,25.0,65.0,95.0,32.98680527788884
+wave,mwp,"time,latitude,longitude",s,20,2025-08-01T00:00:00.000000000,2025-08-05T18:00:00.000000000,5.0,25.0,65.0,95.0,32.98680527788884

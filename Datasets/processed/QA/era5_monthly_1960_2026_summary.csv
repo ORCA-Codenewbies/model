@@ -1,0 +1,2 @@
+file,time_count,time_first,time_last,duplicate_months,non_consecutive_months,latitude_count,latitude_min,latitude_max,latitude_increasing,longitude_count,longitude_min,longitude_max,longitude_increasing,variables
+Datasets/processed/ERA5/era5_monthly_indian_ocean_1960_2026.nc,800,1960-01-01T00:00:00.000000000,2026-08-01T00:00:00.000000000,0,0,81,5.0,25.0,True,121,65.0,95.0,True,"u10,v10,t2m,msl,sst,tp,wind_speed_10m"
