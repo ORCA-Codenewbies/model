@@ -4,7 +4,7 @@
 
 ---
 
-## 0. Shared Foundation — The Spatio-Temporal Join Key
+## Shared Foundation — The Spatio-Temporal Join Key
 
 Every model below is built on the same joinable schema, so results from one model can feed another without reconciliation work:
 
