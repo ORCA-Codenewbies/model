@@ -13,7 +13,6 @@ KEY = (timestamp, latitude, longitude)
 ```
 
 All four datasets are resampled/interpolated onto this common key before training. This is the fact worth stating explicitly to judges — it shows the "agents talk to each other" story is backed by a real data design, not just API calls between black boxes.
-
 ---
 
 ## 1. PFZ Intelligence Agent
